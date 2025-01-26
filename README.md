@@ -9,23 +9,21 @@
   <p>3. Embed it into any of your projects.</p>
 </div>
 <h1>Emojis</h1>
-<div align="center">
-  <h3>Lime1111</h3>
-  <table>
-    <tr>
-      <th>Emoji</th>
-      <th>Name</th>
-      <th>Drawn by</th>
-    </tr>
-    <tr>
-      <th><img src="./lime1111/dizzy.png" width="50px"></th>
-      <th>Dizzy</th>
-      <th>Lemon</th>
-    </tr>
-    <tr>
-      <th><img src="./lime1111/panic.png" width="50px"></th>
-      <th>Panic</th>
-      <th>Lemon</th>
-    </tr>
-  </table>
-</div>
+<h3>Lime1111</h3>
+<table>
+  <tr>
+    <th>Emoji</th>
+    <th>Name</th>
+    <th>Drawn by</th>
+  </tr>
+  <tr>
+    <th><img src="./lime1111/dizzy.png" width="50px"></th>
+    <th>Dizzy</th>
+    <th>Lemon</th>
+  </tr>
+  <tr>
+    <th><img src="./lime1111/panic.png" width="50px"></th>
+    <th>Panic</th>
+    <th>Lemon</th>
+  </tr>
+</table>
