@@ -26,4 +26,9 @@
     <th>Panic</th>
     <th>Lemon</th>
   </tr>
+  <tr>
+    <th><img src="./lime1111/searching.png" width="50px"></th>
+    <th>Searching</th>
+    <th>Lemon</th>
+  </tr>
 </table>
