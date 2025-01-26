@@ -1,0 +1,32 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg"> 
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .box {
+          border-style: solid;
+          border-width: 5px;
+        }
+      </style>
+      <div class="box">
+        <h3>Lime1111</h3>
+        <table>
+          <tr>
+            <th>Emoji</th>
+            <th>Name</th>
+            <th>Drawn by</th>
+          </tr>
+          <tr>
+            <th><img src="./lime1111/dizzy.png" width="50px"></th>
+            <th>Dizzy</th>
+            <th>Lemon</th>
+          </tr>
+          <tr>
+            <th><img src="./lime1111/panic.png" width="50px"></th>
+            <th>Panic</th>
+            <th>Lemon</th>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
