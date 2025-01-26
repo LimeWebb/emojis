@@ -31,4 +31,9 @@
     <th>Searching</th>
     <th>Lemon</th>
   </tr>
+  <tr>
+    <th><img src="./lime1111/skull.png" width="50px"></th>
+    <th>Skull</th>
+    <th>Lemon</th>
+  </tr>
 </table>
