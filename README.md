@@ -9,3 +9,6 @@
   <p>3. Embed it into any of your projects.</p>
 </div>
 <h1>Emojis</h1>
+<div align="center">
+  <img src="./emojis.svg">
+</div>
