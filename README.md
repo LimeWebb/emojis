@@ -1,7 +1,6 @@
-<h1>emojis</h1>
-A repo for emojis in Lime Projects.
-<br><br>
-There is no homepage yet.
+<h1>emojis</h1><img src="./lime1111/dizzy.png" width="50px">
+<h4>A repo for <strong>emojis</strong> in Lime Projects.</h4>
+<h4>There is no homepage yet.</h4>
 <hr>
 <h1>How to use:</h1>
 <div>
